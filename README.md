@@ -1,3 +1,1 @@
-# delira
-
-This is a hosted ping't modeled on the github story
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
